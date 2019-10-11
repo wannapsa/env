@@ -1,7 +1,7 @@
 export a="Hello world"
 echo $a
 
-$path = "/opt/app-root/src/";
+export path = "/opt/app-root/src/";
 
 // Check the existence of file
 if(file_exists($path)){
